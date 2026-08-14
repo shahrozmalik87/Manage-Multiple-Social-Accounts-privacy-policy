@@ -3,7 +3,7 @@
 **Last updated: August 14, 2026**
 
 ## Overview
-Manage Multiple Social Accounts ("the Extension") is developed by Shahroz Malik / Auralix Studio. This privacy policy explains how the Extension handles user data.
+Manage Multiple Social Accounts ("the Extension") is developed by Shahroz Malik. This privacy policy explains how the Extension handles user data.
 
 ## Data Collection
 The Extension does **not** collect, store, or transmit any personally identifiable information. Specifically, we do not collect:
