@@ -31,4 +31,4 @@ The Extension interacts with Instagram, Facebook, TikTok, X (Twitter), and Linke
 We may update this policy from time to time. Changes will be reflected on this page.
 
 ## Contact
-For questions, contact: contact.auralixstudio@gmail.com
+For questions, contact: contact.managesocial@gmail.com
